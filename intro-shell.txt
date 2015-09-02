@@ -1,0 +1,7 @@
+vizualizar a pasta que se encontra através do comando $pwd
+listar os arquivos presentes na pasta através do comando $ls
+mudar de pasta, saindo da pasta users para a pasta desktop através do comando $cd desktop 
+retornar à pasta anterior através do comando $cd .. 
+criar pasta, com o nome pratica-shell na pasta desktop através do comando $mkdir pratica-shell
+criar arquivo dentro da pasta pratica-shell no notepad com o nome intro-shell.txt, criando o arquivo no notepad e salvando na pasta
+criar outro arquivo dentro da pasta pratica-shell no notepad com o nome alunos.txt,criando o arquivo no notepad e salvando na pasta
