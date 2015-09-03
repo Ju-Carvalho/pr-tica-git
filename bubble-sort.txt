@@ -1,0 +1,11 @@
+Utilizando-se 5 cartas de um baralho com 5 numeros distintos, com o objetivo de colocá-las em ordem crescente, foi desenvolvido um método:
+Tendo as cartas nas posições: A,B,C,D e E da esquerda pra direita, foram realizados o seguintes passos:
+1 - Com intuito de achar a menor carta comparou-se a carta A com a carta B, A-C, A-D e A-E
+2 - Caso a carta A seja menor, seria mantida na posição, caso seja maior, troca-se de lugar com a carta comparada.
+3 - Para acharmos a segunda menor carta, compara-se B com C, B-D e B-E
+4 - Caso B seja menor, será mantida na posiçao, caso seja maior, troca-se de lugar com a carta comparada. 
+5 - Para acharmos a terceira menor carta, compararemos C-D e C-E
+6 - Caso C seja menor, será mantida, caso seja maior, troca-se de lugar com a carta comparada.
+7 -Compararemos então a carta D com a E, se D for maior, troca-se, se for menor, mantém-se.
+8 - Assim, todasas cartas encontram-se em ordem.
+
