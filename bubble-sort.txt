@@ -9,3 +9,8 @@ Tendo as cartas nas posições: A,B,C,D e E da esquerda pra direita, foram realiza
 7 -Compararemos então a carta D com a E, se D for maior, troca-se, se for menor, mantém-se.
 8 - Assim, todasas cartas encontram-se em ordem.
 
+Versão simplificada:
+supondo que tenha-se um numero n de cartas deseja-se coloca-las em ordem, as cartas se encontram na posição de A1 a An. 
+Compare A1 com cada carta de A2 a An; Caso A1 seja maior que a carta a qual está sendo comparada, invertem-se as posições, caso seja menor mantem-se as posições.
+Apos a menor carta ser encontrada, o processo se repete com as proximas cartas, comparando-se assim com as seguintes ate que todas as cartas estejam em ordem crescente.
+
